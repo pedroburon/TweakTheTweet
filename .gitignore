@@ -1,0 +1,6 @@
+**.pyc
+TweakTheTweet.egg-info/
+build/
+dist/
+.project
+.profile
